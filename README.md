@@ -1,1 +1,1 @@
-This is a light box that displays weather patterns in motion and responds to movement.
+<h1>The Weather Box<h1>
