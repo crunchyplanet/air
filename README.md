@@ -10,7 +10,7 @@ Demo - https://vimeo.com/307826619
 
 The project started with the idea of giving light some sort of form that makes it feel tangible and corporeal. There are some precedent projects that make the interaction with light really fun, like <a href="http://www.espadaysantacruz.com/projects/light-kinetics" target="_blank">Light Kinetic by Espadaysantacruz Studio</a>, <a href="http://www.nipek.jp/interactive-x-light.html" target="_blank">The Play of Brilliants by Nipek</a>, and <a href="https://learn.adafruit.com/matrix-led-sand" target="_blank">LED Matrix Sand Toy by Ruiz Brothers</a>.
 
-Inspired by these projects, I started designing a light box that responds to motion. I chose weather patterns to be the subject of the animation because our familiarity with them would make the light animation recognizable but refreshing to our senses. They also lend themselves to having views from different perspectives, which would make the connection between the display and the movement of the device very natural.
+Inspired by these projects, I started designing a light box that responds to motion. I chose weather patterns to be the subject of the animation because they would be recognizable and fun to watch in the form of light. They also lend themselves to having varying views from different perspectives, which would make the connection between the display and the movement of the device very natural.
 
 
 ## Mechanics
