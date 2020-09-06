@@ -51,4 +51,7 @@ How my components were wired up: <br>
 
 ## Assembly
 
-The electronics are enclosed in a wooden casing. A sheet of transluscent acrylic is attached over the LED panel, leaving a small distance in between to diffuse the light coming from the pixels.
+The electronics are enclosed in a wooden casing. A sheet of transluscent acrylic is attached over the LED panel, leaving a small distance in between to diffuse the light coming from the pixels. <br>
+<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/showcase.jpg" width="100%">
+<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/showcase2.jpg" width="100%">
+
