@@ -38,31 +38,4 @@ void draw() {
       Dy[i] = 31;
     }
   }
-
-  //noStroke();
-  //fill(10);
-  //ellipse(15, 16, 4, 4);
-  //fill(20);
-  //ellipse(15, 16, 8, 8);
-
-  //blocks
-  stroke(10);
-  fill(5);
-  beginShape();
-  vertex(-1, 10);
-  bezierVertex(8, 13, 8, 21, 18, 33);
-  bezierVertex(-3, 30, -4, 24, -4, 4);
-  endShape();
-  
-  beginShape();
-  vertex(14, 24);
-  bezierVertex(20, 17, 27, 14, 33, 20);
-  bezierVertex(29, 24, 22, 22, 16, 26);
-  endShape();
-  
-  beginShape();
-  vertex(5, 8);
-  bezierVertex(11, 2, 15, 1, 17, 11);
-  bezierVertex(17, 15, 15, 13, 8, 14);
-  endShape();
 }
