@@ -176,6 +176,7 @@ void draw() {
   //  fog = true;
   //}
   
+  //switch every ten seconds
   if (millis()%30000<=10000) {
     rain = true;
     snow = false;
