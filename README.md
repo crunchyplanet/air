@@ -45,9 +45,9 @@ Here are some helpful guides I followed for wiring up the hardware:
 https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md
 https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide
 
-How my components were wired up:
-<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/schematics.png" width="40%">
-<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/wiring.jpg" width="40%">
+How my components were wired up: <br>
+<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/schematics.png" width="50%" display="inline">
+<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/wiring.jpg" width="40%" display="inline">
 
 ## Assembly
 
