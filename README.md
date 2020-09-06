@@ -16,3 +16,14 @@ Inspired by these projects, I started designing a light box that responds to mot
 ## Mechanics
 
 The project uses a Raspberry Pi with a 32x32 LED matrix and a 6-axis accelerometer/gyroscope wired to it. I used Processing to code the weather animations and displayed the graphics on the LED matrix using the <a href="https://github.com/hzeller/rpi-rgb-led-matrix">LED-matrix library</a> created by Henner Zeller. An MPU6050 accelerometer/gyroscope is used to capture the orientation and rotation data. The motion data is integrated with the Processing code using its Hardware I/O functionalities, making it possible to switch between different animation patterns with movement.
+
+Here are some helpful guides I followed for wiring up the hardware:
+https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md
+https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide
+
+How my components are wired up:
+<img>
+
+## Assembly
+
+The electronics are enclosed in a wooden casing. A sheet of transluscent acrylic is attached over the LED panel, leaving a small distance in between to diffuse the light coming from the pixels.
