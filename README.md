@@ -46,7 +46,7 @@ https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md
 https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide
 
 How my components were wired up: <br>
-<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/schematics.png" width="50%" display="inline">
+<img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/schematics.png" width="60%" display="inline">
 <img src="https://github.com/crunchyplanet/atmosphere/blob/master/images/wiring.jpg" width="40%" display="inline">
 
 ## Assembly
